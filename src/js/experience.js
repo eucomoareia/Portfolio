@@ -10,8 +10,8 @@ const experience = [
     company: 'Grupo FASA',
     location: 'São Domingos do Araguaia, PA',
     description: {
-      pt: 'Apoio a atividades administrativas e de escritório, desenvolvendo organização, gestão de tarefas e comunicação.',
-      en: 'Supported administrative and office activities, building organization, task management and communication skills.',
+      pt: 'Apoio a atividades administrativas e de escritório, à gestão de documentos e à manipulação de planilhas, desenvolvendo organização, gestão de tarefas e comunicação.',
+      en: 'Supported administrative and office activities, document management and spreadsheet handling, building organization, task management and communication skills.',
     },
     tags: [],
   },

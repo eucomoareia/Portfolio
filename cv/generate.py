@@ -155,8 +155,8 @@ PT = dict(
           "Certificações Gen AI Technical Certification e AI-Assisted Certified Professional."]),
         ("Aluno Auxiliar de Escritório (Aprendiz) · Grupo FASA", "mai. 2023 – mai. 2024",
          "São Domingos do Araguaia, PA",
-         ["Apoio a atividades administrativas e de escritório e à gestão de documentos, desenvolvendo "
-          "organização, gestão de tarefas e comunicação."]),
+         ["Apoio a atividades administrativas e de escritório, à gestão de documentos e à manipulação de "
+          "planilhas, desenvolvendo organização, gestão de tarefas e comunicação."]),
     ],
     proj=[
         ("AtestaVet — atestados e relatórios veterinários", "set. 2026 – atual",
@@ -248,8 +248,8 @@ EN = dict(
           "Gen AI Technical Certification and AI-Assisted Certified Professional."]),
         ("Office Assistant (Apprentice) · Grupo FASA", "May 2023 – May 2024",
          "São Domingos do Araguaia, PA, Brazil",
-         ["Supported administrative and office activities and document management, building organization, "
-          "task management and communication skills."]),
+         ["Supported administrative and office activities, document management and spreadsheet handling, "
+          "building organization, task management and communication skills."]),
     ],
     proj=[
         ("AtestaVet — veterinary certificates and reports", "Sep 2026 – Present",
