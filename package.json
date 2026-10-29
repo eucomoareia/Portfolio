@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "cv:gen": "python3 cv/generate.py",
     "cv": "\"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome\" --headless --disable-gpu --no-pdf-header-footer --allow-file-access-from-files --print-to-pdf=public/cv.pdf \"file://$PWD/cv/curriculo.html\"",
     "cv:en": "\"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome\" --headless --disable-gpu --no-pdf-header-footer --allow-file-access-from-files --print-to-pdf=public/cv-en.pdf \"file://$PWD/cv/curriculo-en.html\""
   },
