@@ -159,7 +159,7 @@ PT = dict(
           "organização, gestão de tarefas e comunicação."]),
     ],
     proj=[
-        ("AtestaVet — atestados e relatórios veterinários", "set. 2026",
+        ("AtestaVet — atestados e relatórios veterinários", "set. 2026 – atual",
          "Flutter · Dart · Supabase · Cloudflare Pages",
          ["Aplicativo para veterinários preencherem e gerarem em PDF os documentos do programa de brucelose e "
           "tuberculose (PNCEBT): atestado de exame, atestado de vacinação e relatório mensal.",
@@ -252,7 +252,7 @@ EN = dict(
           "task management and communication skills."]),
     ],
     proj=[
-        ("AtestaVet — veterinary certificates and reports", "Sep 2026",
+        ("AtestaVet — veterinary certificates and reports", "Sep 2026 – Present",
          "Flutter · Dart · Supabase · Cloudflare Pages",
          ["App for veterinarians to fill in and generate, as PDFs, the standardized documents of the brucellosis "
           "and tuberculosis program (PNCEBT): exam certificate, vaccination certificate and monthly report.",

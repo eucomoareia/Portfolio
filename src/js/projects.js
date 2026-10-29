@@ -59,7 +59,7 @@ const projects = [
   },
   {
     title: 'AtestaVet',
-    period: '2026',
+    period: { pt: '2026 — Atual', en: '2026 — Present' },
     description: {
       pt: 'App multiplataforma (Android, macOS e Linux) que preenche e gera em PDF atestados veterinários de brucelose e tuberculose. Funciona offline, sincroniza com a nuvem e monta sozinho o relatório mensal da ADEPARÁ.',
       en: 'Cross-platform app (Android, macOS and Linux) that fills in and generates veterinary brucellosis and tuberculosis certificates as PDFs. Works offline, syncs to the cloud and builds the monthly ADEPARÁ report automatically.',

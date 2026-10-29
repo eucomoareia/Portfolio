@@ -32,15 +32,15 @@ const experience = [
     company: 'Exception Júnior',
     location: 'Marabá, PA',
     description: {
-      pt: 'Desenvolvimento de aplicações full stack, com interfaces e serviços em Next.js, Node.js e Tailwind CSS. Desenvolvi o site institucional da PPMAC (ppmac.com.br).',
-      en: 'Building full stack applications, with interfaces and services in Next.js, Node.js and Tailwind CSS. Built the PPMAC corporate website (ppmac.com.br).',
+      pt: 'Desenvolvimento de aplicações full stack, com interfaces e serviços em Next.js, Node.js e Tailwind CSS. Back-end do Conecta Canaã (Smart City de Canaã dos Carajás) e front-end do site do PPMAC (ppmac.com.br).',
+      en: 'Building full stack applications, with interfaces and services in Next.js, Node.js and Tailwind CSS. Back-end of Conecta Canaã (Canaã dos Carajás Smart City) and front-end of the PPMAC website (ppmac.com.br).',
     },
     tags: ['TypeScript', 'Next.js', 'Node.js', 'Go', 'Java'],
     current: true,
   },
   {
     date: { pt: 'dez/2024 — ago/2025', en: 'Dec 2024 — Aug 2025' },
-    role: { pt: 'Instrutor de Projeto de Extensão', en: 'Extension Project Instructor' },
+    role: { pt: 'Bolsista e Instrutor de Projeto de Extensão', en: 'Scholarship Holder and Extension Project Instructor' },
     company: 'UNIFESSPA',
     location: 'Marabá, PA',
     description: {
